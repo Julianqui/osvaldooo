@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ibañez;Elda;Sofia;;
+FN:Elda Sofia Ibañez
+item1.TEL;waid=5491153369624:+54 9 11 5336-9624
+item1.X-ABLabel:Móvil
+item2.URL:http://www.google.com/profiles/109090944027234803514
+item2.X-ABLabel:PROFILE
+item3.EMAIL;type=INTERNET:eldaibanez@gmail.com
+item3.X-ABLabel:Otro
+END:VCARD

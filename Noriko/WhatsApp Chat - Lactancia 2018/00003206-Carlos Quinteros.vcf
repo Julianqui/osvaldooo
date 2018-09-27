@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Quinteros;Carlos;;;
+FN:Carlos Quinteros
+item1.TEL;waid=5493884041815:+54 9 388 404-1815
+item1.X-ABLabel:Móvil
+item2.EMAIL;type=INTERNET:carlosrquinteros@gmail.com
+item2.X-ABLabel:Otro
+END:VCARD

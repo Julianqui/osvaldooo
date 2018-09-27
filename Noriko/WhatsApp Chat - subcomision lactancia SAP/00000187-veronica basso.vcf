@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:basso;veronica;;;
+FN:veronica basso
+item1.TEL;waid=5491130304165:+54 9 11 3030-4165
+item1.X-ABLabel:Móvil
+item2.EMAIL;type=INTERNET:vero2bas@yahoo.com.ar
+item2.X-ABLabel:Otros
+END:VCARD

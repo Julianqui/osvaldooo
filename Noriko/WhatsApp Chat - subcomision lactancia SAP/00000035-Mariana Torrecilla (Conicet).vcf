@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:(Conicet);Mariana;Torresilla;;
+FN:Mariana Torrecilla (Conicet)
+item1.TEL;waid=5492616027759:+54 9 261 602-7759
+item1.X-ABLabel:Móvil
+item2.EMAIL;type=INTERNET:maritorrecilla@yahoo.com.ar
+item2.X-ABLabel:INTERNET
+END:VCARD
